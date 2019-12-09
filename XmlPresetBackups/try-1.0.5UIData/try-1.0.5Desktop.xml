@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptSlider" id="Release" x="162" y="19" processorId="AHDSR Envelope2"
+             parameterId="Release" mode="Time" max="20000" stepSize="1" suffix=" ms"
+             middlePosition="1000"/>
+  <Component type="ScriptSlider" id="Attack" x="24" y="19" processorId="AHDSR Envelope2"
+             parameterId="Attack" mode="Time" max="20000" stepSize="1" suffix=" ms"
+             middlePosition="1000"/>
+</ContentProperties>
